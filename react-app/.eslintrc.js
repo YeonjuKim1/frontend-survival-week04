@@ -65,5 +65,6 @@ module.exports = {
       extensions: ['.js', '.jsx', '.ts', '.tsx'],
     }],
     'jsx-a11y/label-has-associated-control': ['error', { assert: 'either' }],
+    'linebreak-style': 0,
   },
 };
